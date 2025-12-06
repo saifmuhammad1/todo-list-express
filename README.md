@@ -19,7 +19,7 @@ npm install
 
 Create a .env file:
 
-PORT=5000
+PORT=3000
 DB_URI=your_azure_mongo_connection_string
 JWT_SECRET=your_secret_key
 
@@ -27,7 +27,7 @@ Start the server:
 
 npm run dev
 
-Server runs at http://localhost:5000.
+Server runs at http://localhost:3000.
 
 Usage
 
